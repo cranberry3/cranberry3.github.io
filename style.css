@@ -1,0 +1,48 @@
+html{
+    background-color:#FFFFF3;
+}
+
+header{
+    background-color:#D7FFF1;
+    height:90px;
+}
+.header-logo{
+    float:left;
+    color:#3b8686;
+    font-size:40px;
+    padding:15px;
+}
+p{
+    padding-left:50px;
+}
+
+li{
+    float:left;
+    padding:10px;
+    list-style:none;
+}
+
+h2{
+    padding-left:625px;
+    color:#353866;
+    font-size:30px;
+}
+a{
+    padding:30px;
+}
+img{
+    width:400px;
+}
+.photo{
+    display:flex;
+    padding:30px;
+    padding-left:300px;
+}
+.photo p{
+    width:400px;
+    padding-left:30px;
+}
+video{
+    width:500px;
+    padding-left:400px;
+}
